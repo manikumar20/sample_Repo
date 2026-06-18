@@ -1,4 +1,4 @@
-let a=10;
-let b=20;
-let c=a+b;
-console.log(c);
+function add(a,b){
+    return a+b;
+}
+console.log(add(10,20));
